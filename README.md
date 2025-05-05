@@ -23,4 +23,4 @@ The repository is organized into folders, each representing a week of the course
 
 ## Languages
 
-Although the repository supports multiple languages, the primary focus is on Python for all the solutions.
+Although the repository supports multiple languages, I solved them in Python.
